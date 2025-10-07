@@ -1,2 +1,2 @@
-# Ko-Ko-Maung
+#Ko Ko Maung
 duvon
